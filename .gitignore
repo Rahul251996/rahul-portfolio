@@ -1,0 +1,17 @@
+node_modules/
+dist/
+target/
+.env
+.env.*
+!.env.example
+.cache/
+output/
+test-results/
+playwright-report/
+supabase/.temp/
+supabase/.branches/
+*.log
+.DS_Store
+.idea/
+
+.vercel/
